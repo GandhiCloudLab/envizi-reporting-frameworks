@@ -237,7 +237,7 @@ If you click on `ADD FRAMEWORK` it will show the list of frameworks available.
 <img src="images/img-srm-06-disclosure-frame2.png">
 
 If you choose a framework, it will show the list of questionaire available for the selected framework. You can choose the questionaire and add it to the disclosure.
-<img src="images/img-srm-06-disclosure-frame2.png">
+<img src="images/img-srm-06-disclosure-frame3.png">
 
 
 ## 5. Frameworks in Detail
@@ -428,7 +428,9 @@ NABERS `ratings` are available for
 - hotels, 
 - shopping centers
 - data centers.
+
 NABERS announced in 2019 a plan to `expand` to `all major building types`. 
+
 Under Australia’s Building Energy Efficiency Disclosure Act, all `buildings for sale` or under lease
 over `10,000 sq ft` must `receive a NABERS rating`. 
 
