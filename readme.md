@@ -168,90 +168,100 @@ Investors use these to improve the sustainability performance of their investmen
 These allow reporters to select the questions they want to report against, depending on factors such as their industry of operation and their materiality. Scoring is typically not included in these frameworks.
 
 ### 5.1 Global Reporting Initiative (GRI) 
+GRI is a globally applicable and most widely used reporting standard. It is designed to prepare a sustainability report focused on `material` topics. It is available in three sets:
 
+#### Universal Standards: 
+The Universal Standards applies to all organizations. It contains the three standards.
+- GRI 1, Foundation
+- GRI 2, General Disclosures
+- GRI 3, Material Topics
 
+#### Sector Standards: 
+Specific standards are available across 40 sectors. Here are the 4 groups available for sectors.
+- Group 1: Basic Materials and Needs
+- Group 2: Industrial
+- Group 3: Transport, Infrastructure, and Tourism
+- Group 4: Other Services and Light Manufacturing
 
-GRI is a globally applicable guidance
-framework that provides standards detailing
-approaches to materiality, management
-reporting and disclosure for a comprehensive
-range of sustainability issues. GRI Standards
-guide many organizations in the production of
-their own sustainability reports.
-How GRI works
-The modular, interrelated GRI Standards
-are designed primarily to be used as a set to
-prepare a sustainability report focused on
-material topics. The three universal standards
-are used by every organization that reports
-under the GRI framework. An organization
-also chooses from the topic-specifc standards
-to report on its material topics — economic,
-environmental or social.
-
-
+#### Topic Standards
+Specific standards across 33 topics. They belongs to `Environmental, Social, Governance` and  other topics.
 
 ### 5.2 Task Force on Climate-related Financial Disclosures (TCFD)
 ### 5.3 Value Reporting Foundation (VRF)  (Sustainability Accounting Standards Board (SASB) and  International Integrated Reporting Council (IIRC) )
-
-
 
 - allow reporters to select the questions they want to report against, 
   - depending on factors such as their industry of operation and their materiality. 
 - Scoring is typically not included in these frameworks.
 
-### 5.1 Global Reporting Initiative (GRI) 
-
-- provides standards detailing approaches to `materiality, management reporting and disclosure` for a comprehensive
-range of sustainability issues. 
-- GRI Standards guide many organizations in the production of their `own` sustainability reports.
-
-#### How GRI works
-
-- The modular, interrelated GRI Standards are designed primarily to be used as a set to prepare a sustainability report focused on material topics. 
-- The 3 universal standards are used by every organization that reports under the GRI framework. 
-- An organization also chooses from the topic-specific standards to report on its material `topics—economic`, `environmental` or `social`.
 
 ### 5.2 Task Force on Climate-related Financial Disclosures (TCFD)
 
-- to address `climate risks` to the business, falling within the “E” of ESG reporting. 
-- helps to articulate how ESG performance is most likely to materially 
-- impact future financial performance and value creation.
+TCFD is explicitly designed to address `climate-related` financial risks of the business to investors, lenders and insurers, falling within the ‘E’ of ESG reporting. 
 
-Broken into four pillars, the TCFD addresses disclosure requirements related to:
-1. Governance: How does the organization’s governance structure address climate- related risks and opportunities?
-2. Strategy: What are the tangible material impacts of climate-related risks and opportunities on the whole business, including strategy and financial planning?
-3. Risk management: How does the organization define, assess and manage climate- related risks?
-4. Metrics and targets: What are the measurements used to assess material climate- related risks and opportunities?
+TCFD is made of 11 disclosures and divided into 4 pillars.
+
+- **Governance** : Te organization’s governance around climate-related risks and opportunities?
+- **Strategy**: The actual and potential impacts of the climate-related risks and opportunities on the organization's businesses, strategy and financial planning.
+- **Risk Management:** The process used by the organization to identify, assess and manage climate-related risks.
+- **Metrics & Targets:** The metrics and targets used to assess and manage relvant limate-related risks and opportunities
 
 ### 5.3 Value Reporting Foundation (VRF)  (Sustainability Accounting Standards Board (SASB) and  International Integrated Reporting Council (IIRC) )
 
-- In June 2021, SASB and IIRC announced their `merger` to form the VRF
-- ESG guidance framework that sets standards for the disclosure of `financially material sustainability` information 
-- The resources they provide include the 
-  - Integrated Thinking Principles, 
+VRF is an ESG guidance framework that sets standards for the disclosure of `financially material sustainability` information.
+
+In June 2021, SASB and IIRC are merged to form the VRF. 
+
+VRF provides the following resources
+  - Integrated Thinking Principles
   - Integrated Reporting Framework 
   - SASB Standards.
 
+- `VRF’s` framework is built to support companies in sharing their `outward ESG impacts`
 - `SASB` Standards track ESG issues and performance across `77` industry standards. 
-- `VRF’s` framework is built to support companies in sharing their `outward ESG impacts` through the language of investors,debt holders and internal financial stakeholders.
-
-### How the SASB Standards work
-- `GRI is most like SASB` but supplies more broadly material information for reporting to stakeholders who are `not just from financial portfolios`.
-
-- Asset management companies such as `BlackRock`, `Goldman Sachs` and `Morgan Stanley`;
-- manufacturing giants such as `GM` and `Nike`;
-- Specialized industries with companies such as `Merck` and `JetBlue` use SASB Standards to disclose ESG metrics.
-
-- SASB also supplies resources to `explain how investors` across multiple asset classes `use the standards`. 
-
 
 ## 6. Regulatory frameworks
 Like benchmark frameworks in that all responses are required but not always scored. These frameworks and reporting requirements are also required by a government body
 
 ### 6.1 Sustainable Finance Disclosure Regulation (SFDR)
+
+SFDR aims reporting of ESG metrics for `financial products and entities` within the `EU`. It does this by mandating Principal Adverse Impact `(PAI)` statement.
+
+SFDR will act in concert with the `EU taxonomy` and the proposed `EU Corporate Sustainability Reporting Directive (CSRD)`
+
+SFDR’s PAI statement requires fnancial bodies to report different types of quantitative indicators, including `weighted averages across` various ESG metrics for `their investments` as well as emissions from their own activities.
+
+This means that organizations must report the proportion of their investees’ activities that they fnance.
+
 ### 6.2 National Greenhouse and Energy Reporting (NGER)
+
+NGER Scheme is the `Australian national framework` for reporting and disseminating company information about `GHG emissions, energy production and energy consumption`.
+
+The NGER Scheme collects emissions-related data about GHGs such as 
+- carbon dioxide (CO2)
+- methane (CH4)
+- nitrous oxide (N2O) 
+- sulfur hexafluoride (SF6) 
+- specified kinds of hydrofluorocarbons and perfluorocarbons
+
+NGER Act insists on records of activities must be adequate to verify during an external audit for relevance, completeness, consistency, transparency and accuracy
+
 ### 6.3. Streamlined Energy and Carbon Reporting (SECR)
+
+SECR taxonomy is the `UK government’s` guidance for organizations required to disclose `energy use, GHG emissions` and related information. 
+
+It is expected that an 11,900 companies incorporated in the UK will need to report on their energy and carbon emissions under the new framework.
+
+`Quoted` companies are required to disclose their 
+- `Energy use`
+- Global `Scope 1 and 2` GHG emissions in metric tons of CO2 equivalent 
+- At least `one emissions intensity` metric of their choosing for current and previous financial years.
+- `Scope 3 emissions` remain voluntary.
+
+`Unquoted` large companies and LLPs will also need to report
+  - their UK energy use 
+  - associated GHG emissions from electricity, gas and transport fuels
+  - as well at least one intensity metric. 
+
 
 ## 7. Rating agencies
 
