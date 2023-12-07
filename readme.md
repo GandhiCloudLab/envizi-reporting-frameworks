@@ -12,7 +12,7 @@ In response to rising `investor and community interest`, organizations are targe
 
 ## 1. ESG Frameworks
 
-
+The ESG frameworks landspace can be subdivided into the following 5 categories.
 
 #### Global Agreements
 A legally-binding commitment between entities to achieve a specific set of outcomes of global importance, typically facilitated through diplomacy.
@@ -47,58 +47,102 @@ Each of the major ESG reporting frameworks has different levels of focus on the 
 Here’s a directory of information sources. The regular updates and guidance throughout the year on emerging trends and changes in the ESG reporting landscape are published.  You can access these resources through our website or LinkedIn page.
 
 <table>
-<thead>
-<th></th>
-<th>Main website</th>
-<th>Electronic newsletter sign-up </th>
-<th>Media/blog </th>
-<th>Social media
-(LinkedIn)</th>
-</thead>
-
-<tr>
-<td>CDP</td><td>www.cdp.net/en</td><td> www.cdp.net/en#ab6aef87ead8143aa322f9ea57c986a5</td><td>www.cdp.net/en/blog </td><tdwww.linkedin.com/company/cdp-worldwide</td><td>
-</tr>
-<tr>
-CSA </td><td>www.spglobal.com/esg</td><td> www.pages.marketintelligence.spglobal.com/Newsletter-Hub-
-Request.html</td><td>www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines</td><td>www.linkedin.com/company/spglobal</td><td>
-</tr><tr>
-
-ENERGY STAR </td><td>www.energystar.gov/buildings</td><td> www.cloud.mail.energystar.gov/preferences/profle</td><td>www.energystar.gov/about/newsroom</td><td>www.linkedin.com/showcase/epa-energy-star</td><td>
-</tr><tr>
-
-GRESB </td><td>www.gresb.com www.gresb.com/nl-en/gresb-newsletter</td><td>www.gresb.com/nl-en/news-and-updates</td><td>www.linkedin.com/company/gresb</td><td>
-</tr><tr>
-
-GRI www.globalreporting.org </td><td>www.r1.dotdigital-pages.com/p/4J5-SLH/gri-email-communication-sign-up-form</td><td>
-www.globalreporting.org/about-gri/news-center</td><td>www.linkedin.com/company/global-reporting-initiative-gri</td><td>
-</tr><tr>
-
-IIRC</td><td> www.integratedreporting.org</td><td> www.valuereportingfoundation.org/subscribe</td><td>www.integratedreporting.org/newspage</td><td>www.linkedin.com/company/international-integrated-reporting-council</td><td>
-</tr><tr>
-
-NABERS AU</td><td> www.nabers.gov.au </td><td>www.nabers.us6.list-manage.com/subscribe?u=cf8c911de05f356279288cde0&id=594
-16b8f3b</td><td>www.nabers.gov.au/about/news </td><td>www.linkedin.com/company/nabers</td><td></tr><tr>
-
-NGER </td><td>www.cleanenergyregulator.gov.au/NGER</td><td>www.cleanenergyregulator.gov.au/About/Subscribe-to-email-updates</td><td>www.cleanenergyregulator.gov.au/NGER/News-and-updates</td><td>www.linkedin.com/company/clean-energy-regulator</td><td>
-</tr><tr>
-
-SASB </td><td>www.sasb.org www.valuereportingfoundation.org/subscribe</td><td>www.sasb.org/about/news </td><td>www.linkedin.com/company/sasb-sustainability-accounting-standards-board</td><td></tr><tr>
-
-SBTi </td><td>www.sciencebasedtargets.org</td><td> www.sciencebasedtargets.org/newsletter</td><td>www.sciencebasedtargets.org/news-events</td><td>www.linkedin.com/company/science-based-targets</td><td>
-</tr><tr>
-
-SECR</td><td> www.gov.uk/government/publications/academy-trust-fnancial-management-good-practice-guides/streamlined-energy-and-carbon-reporting</td><td> 
-</tr><tr>
-
-SFDR </td><td> www.eurosif.org www.eurosif.org/monthly- www.eurosif.org/newsnewsletter</td><td> www.linkedin.com/company/eurosif</td><td> 
-</tr><tr>
-
-TCFD </td><td> www.fsb-tcfd.org www.fsb-tcfd.org/mailing-list</td><td>  www.fsb-tcfd.org/press</td><td>  www.linkedin.com/company/task-force-on-climate-related-fnancial-disclosures-tcfd</td><td> 
-</tr><tr>
-
+  <thead>
+    <th></th>
+    <th>Main website</th>
+    <th>Electronic newsletter sign-up </th>
+    <th>Media/blog </th>
+    <th>Social media (LinkedIn)</th>
+  </thead>
+  <tr>
+    <td>CDP</td>
+    <td>www.cdp.net/en</td>
+    <td> www.cdp.net/en#ab6aef87ead8143aa322f9ea57c986a5</td>
+    <td>www.cdp.net/en/blog </td>
+    <td>www.linkedin.com/company/cdp-worldwide</td>
+  </tr>
+  <tr>
+    <td>CSA </td>
+    <td>www.spglobal.com/esg</td>
+    <td> www.pages.marketintelligence.spglobal.com/Newsletter-Hub-Request.html</td>
+    <td>www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines</td>
+    <td>www.linkedin.com/company/spglobal</td>
+  </tr>
+  <tr>
+    <td>ENERGY STAR </td>
+    <td>www.energystar.gov/buildings</td>
+    <td> www.cloud.mail.energystar.gov/preferences/profle</td>
+    <td>www.energystar.gov/about/newsroom</td>
+    <td>www.linkedin.com/showcase/epa-energy-star</td>
+  <td>
+  </tr>
+  <tr>
+    <td>GRESB </td>
+    <td>www.gresb.com www.gresb.com/nl-en/gresb-newsletter</td>
+    <td>www.gresb.com/nl-en/news-and-updates</td>
+    <td>www.linkedin.com/company/gresb</td>
+  </tr>
+  <tr>
+    <td>GRI www.globalreporting.org </td>
+    <td>www.r1.dotdigital-pages.com/p/4J5-SLH/gri-email-communication-sign-up-form</td>
+    <td>www.globalreporting.org/about-gri/news-center</td>
+    <td>www.linkedin.com/company/global-reporting-initiative-gri</td>
+  </tr>
+  <tr>
+    <td>IIRC</td>
+    <td> www.integratedreporting.org</td>
+    <td> www.valuereportingfoundation.org/subscribe</td>
+    <td>www.integratedreporting.org/newspage</td>
+    <td>www.linkedin.com/company/international-integrated-reporting-council</td>
+  </tr>
+  <tr>
+    <td>NABERS AU</td>
+    <td> www.nabers.gov.au </td>
+    <td>www.nabers.us6.list-manage.com/subscribe?u=cf8c911de05f356279288cde0&id=59416b8f3b</td>
+    <td>www.nabers.gov.au/about/news </td>
+    <td>www.linkedin.com/company/nabers</td>
+  <td>
+  </tr>
+  <tr>
+    <td>NGER </td>
+    <td>www.cleanenergyregulator.gov.au/NGER</td>
+    <td>www.cleanenergyregulator.gov.au/About/Subscribe-to-email-updates</td>
+    <td>www.cleanenergyregulator.gov.au/NGER/News-and-updates</td>
+    <td>www.linkedin.com/company/clean-energy-regulator</td>
+  </tr>
+  <tr>
+    <td>SASB </td>
+    <td>www.sasb.org</td>
+    <td>www.valuereportingfoundation.org/subscribe</td>
+    <td>www.sasb.org/about/news </td>
+    <td>www.linkedin.com/company/sasb-sustainability-accounting-standards-board</td>
+  </tr>
+  <tr>
+    <td>SBTi </td>
+    <td>www.sciencebasedtargets.org</td>
+    <td> www.sciencebasedtargets.org/newsletter</td>
+    <td>www.sciencebasedtargets.org/news-events</td>
+    <td>www.linkedin.com/company/science-based-targets</td>
+  </tr>
+  <tr>
+    <td>SECR</td>
+    <td>www.gov.uk/government/publicationsacademy-trust-fnancial-management-good-practice-guidesstreamlined-energy-and-carbon-reporting</td>
+  </tr>
+  <tr>
+    <td>SFDR </td>
+    <td>www.eurosif.org</td>
+    <td>www.eurosif.org/monthly</td>
+    <td>www.eurosif.org/newsnewsletter</td>
+    <td>www.linkedin.com/company/eurosif</td>
+  </tr>
+  <tr>
+    <td>TCFD </td>
+    <td>www.fsb-tcfd.org</td>
+    <td>www.fsb-tcfd.org/mailing-list</td>
+    <td>www.fsb-tcfd.org/press</td>
+    <td>www.linkedin.com/company/task-force-on-climate-related-fnancial-disclosures-tcfd</td>
+  </tr>
 </table>
-
 
 ## 3. Selecting ESG reporting frameworks
 
