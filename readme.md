@@ -415,21 +415,24 @@ Companies `receive scores` ranging from `0 to 100 and percentile rankings`.
 
 Using a `six-star` scale, NABERS helps `Australian building owners` understand how their `asset impacts the environment` and helps prospective tenants understand `how energy- efficient their leased space` is.
 
-- NABERS `compares` the performance of a building or tenancy to benchmarks that represent the performance of `other similar buildings` in the same location. 
-- NABERS `scores are calculated` by an independent assessor `using 12 months of real, measurable information` about a building or tenancy, such as 
-  - energy 
-  - water bills 
-  - waste consumption data as the basis of their rating. 
-- NABERS `ratings` are available for
-  - commercial office buildings
-  - tenancies, 
-  - hotels, 
-  - shopping centers
-  - data centers.
-- NABERS announced in 2019 a plan to `expand` to `all major building types`. 
+NABERS `compares` the performance of a building or tenancy to benchmarks that represent the performance of `other similar buildings` in the same location. 
+
+NABERS `scores are calculated` by an independent assessor `using 12 months of real, measurable information` about a building or tenancy, such as 
+- energy 
+- water bills 
+- waste consumption data as the basis of their rating. 
+
+NABERS `ratings` are available for
+- commercial office buildings
+- tenancies, 
+- hotels, 
+- shopping centers
+- data centers.
+NABERS announced in 2019 a plan to `expand` to `all major building types`. 
 Under Australia’s Building Energy Efficiency Disclosure Act, all `buildings for sale` or under lease
 over `10,000 sq ft` must `receive a NABERS rating`. 
-- Governments are required to lease space in buildings with ratings of 4.5 or higher.
+
+Governments are required to lease space in buildings with ratings of 4.5 or higher.
 
 ### Conclusion
 
