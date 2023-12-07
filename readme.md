@@ -1,14 +1,21 @@
 # ESG Reporting frameworks and Envizi
 
-ESG frameworks are used by organizations for the purpose of publicly reporting detailed environmental, social and governance (ESG) metrics of the business
+ESG frameworks are used by organizations for the purpose of publicly reporting detailed environmental, social and governance (ESG) metrics of the business. 
+
+In this article lets us explore about the different ESG reporting frameworks available and how organization needs to choose the appropriate frameworks for thier reporting. Also lets explore how the disclosers are done in Envizi by choosing the frameworks.
 
 ## Introduction
 
+Companies uses ESG reporting frameworks to disclose data covering their business operations, and opportunities and risks related to environmental, social, and governance (ESG) aspects. These frameworks are developed by diverse entities like NGOs, stock exchanges, business groups, nonprofits, think tanks, and governments. Despite the existence of numerous ESG frameworks, only around a dozen are deemed significant. Each framework generally establishes the metrics, qualitative elements, format, and reporting frequency for companies. While some frameworks are voluntary, others are mandated by governments.
 
-## ESG Frameworks
+In response to rising `investor and community interest`, organizations are targeting sustainability performance improvements, setting ESG goals and reporting on their performance. `Failure` to take ESG risks seriously could result in many `negative impacts for firms`.  The increasing importance of ESG means that organizations are reporting their ESG impact using an ever-increasing range of different frameworks.
+
+## 1. ESG Frameworks
+
+
 
 #### Global Agreements
-A legally-binding commitment  between entities to achieve a specific set of outcomes of global importance, typically facilitated through diplomacy
+A legally-binding commitment between entities to achieve a specific set of outcomes of global importance, typically facilitated through diplomacy.
 
 <img src="images/img-00-1.png">
 
@@ -31,13 +38,13 @@ A national or state law, funding package, or executive order directing local act
 
 ### Framework Coverage
 
-Each of the major ESG reporting frameworks has different levels of focus on the key ESG performance metrics. Understanding which framework focuses on which indicator can help with framework selection and provide insights into where organizations may be able to report to multiple frameworks using existing data. This matrix illustrates the focus areas for each reporting framework.
+Each of the major ESG reporting frameworks has different levels of focus on the key ESG performance metrics. This matrix illustrates the focus areas for each reporting framework.
 
 <img src="images/img-01.png">
 
 ### Frameworks information sources
 
-Here’s a directory of these information sources. We issue regular updates and guidance throughout the year on emerging trends and changes in the ESG reporting landscape. Our position as a global leader in ESG management software for over a decade gives us unique insight into the sector. You can access these resources through our website or LinkedIn page.
+Here’s a directory of information sources. The regular updates and guidance throughout the year on emerging trends and changes in the ESG reporting landscape are published.  You can access these resources through our website or LinkedIn page.
 
 <table>
 <thead>
@@ -95,100 +102,42 @@ TCFD </td><td> www.fsb-tcfd.org www.fsb-tcfd.org/mailing-list</td><td>  www.fsb-
 
 ## 3. Selecting ESG reporting frameworks
 
-Large number and variety of ESG reporting frameworks are available. Applying different lenses to assess and categorize the various frameworks can help selecting the appropriate ESG reporting frameworks for your organization.
+The ESG reporting landscape is cluttered with a large number and variety of reporting frameworks. Applying different lenses to assess and categorize the various frameworks can help selecting the appropriate ESG reporting frameworks for your organization.
 
 ### 3.1 Lens 1: Potential for impact
 
-The decision on which framework to report to use should start by considering where an
-organization can make the most difference based on materiality assessments.
+The decision should start by considering where an organization can make the most difference based on materiality assessments. The materiality guides organizations to focus on ESG issues that are relevant to them and will have a measurable impact on their business.
 
-#### Materiality in the context of ESG
-
-Using a “risk matrix” approach, organizations can
-
-- a large-cap e-commerce company may choose to focus on packaging materials and waste (environmental), supply chain labor standards (social) and business ethics (governance) in its materiality assessment 
-
-#### Assessing double materiality. 
-
-consider materiality from 2 viewpoints: 
-
-- financial materiality 
-- materiality to the market, the environment and people. 
-
-organization is responsible for
-- inward impact by managing its own financial risks
-- outward impacts of its decisions and operations on people and the environment. 
-
-organizations can identify both 
-- the financial
-- and nonfinancial impacts 
-
-
-#### Impact and influence
-The other side of the materiality coin is impact and influence. Organizations assessing their ESG reporting approach may also find it beneficial to consider the environmental and social factors that they can influence most directly and rapidly.
-Using an action priority or impact effort prioritization matrix, organizations can quickly identify where to focus their initial efforts and then use these insights to determine which ESG framework can help with realizing goals that are within reach.
-For example, organizations in the fast-moving consumer goods and retail sectors can exert influence within their supply chain. In these sectors, an organization’s procurement choices can have significant impact on the ESG
+For example, a large-cap e-commerce company may choose to focus on packaging materials and waste (environmental), supply chain labor standards (social) and business ethics (governance) in its materiality assessment 
 
 ### 3.2 Lens 2: Stakeholder expectations
 
-#### What are external stakeholders looking for?
+Organizations may also consider what their stakeholders are looking for and which ESG frameworks these stakeholders expect to be used. For example,
 
-- investors, boards, insurers and creditors 
-  - Task Force on Climate- related Financial Disclosures (TCFD) or 
+- Investors, boards, insurers and creditors may prefer 
+  - Task Force on Climate-related Financial Disclosures (TCFD) or 
   - Sustainability Accounting Standards Board (SASB). 
 - Employees and consumers
   - United Nations Sustainable Development Goals (UN SDGs)
-- governments or regulators may prefer 
+- Governments or regulators may prefer 
   - Streamlined Energy and Carbon Reporting (SECR)
   - National Greenhouse and Energy Reporting (NGER)
-
-
-#### How will internal stakeholders use the information?
-
-- risk, compliance and HR teams 
-  - would be invested in the data to drive strategic decisions around equity and inclusion
-- energy and utilities would be looking closely at 
-  - consumption and expenditure across the organization. 
-- Procurement teams
-  - to assess their supply chain operations and the risk profile ofsuppliers.
 
 ### 3.3 Lens 3: Geography
 
 Certain ESG reporting frameworks are only relevant in particular geographies. (mandated by law, specific to local conditions).
-- ENERGY STAR® (North America and select other countries)
+- ENERGY STAR (North America and select other countries)
 - SECR (UK) and NGER (Australia)
 
 ### 3.4 Lens 4: Sector preference
 
-- Global Real Estate Sustainability Benchmark (GRESB). 
-  - real estate
-  - infrastructure portfolios.
+Organizations within specific sectors naturally align with particular ESG reporting frameworks. For instance, the Global Real Estate Sustainability Benchmark (GRESB) is used to assess the sustainability performance of real estate and infrastructure portfolios.
 
 ### 3.5 Lens 5: Framework coverage
 
-Each ESG reporting frameworks has different levels of focus on the key ESG performance metrics, 
-  including environment, social, governance, carbon, energy, waste and water.
+Each ESG reporting frameworks has different levels of focus on the key ESG performance metrics such as environment, social, governance, carbon, energy, waste and wate., Understanding which framework focuses
+on which indicator can help with framework.
 
-
-
-
-### 3.1 Lens 1: Potential for impact
-
-#### Materiality in the context of ESG
-
-#### Assessing double materiality. 
-
-
-#### Impact and influence
-
-### 3.2 Lens 2: Stakeholder expectations
-#### What are external stakeholders looking for?
-
-#### How will internal stakeholders use the information?
-
-### 3.3 Lens 3: Geography
-### 3.4 Lens 4: Sector preference
-### 3.5 Lens 5: Framework coverage
 
  ## Frameworks in Detail
 
