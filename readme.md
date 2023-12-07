@@ -130,10 +130,6 @@ Here’s a directory of information sources. The regular updates and guidance th
     <td>www.linkedin.com/company/science-based-targets</td>
   </tr>
   <tr>
-    <td>SECR</td>
-    <td>www.gov.uk/government/publicationsacademy-trust-fnancial-management-good-practice-guidesstreamlined-energy-and-carbon-reporting</td>
-  </tr>
-  <tr>
     <td>SFDR </td>
     <td>www.eurosif.org</td>
     <td>www.eurosif.org/monthly</td>
@@ -197,23 +193,26 @@ ESG reporting software such as the IBM Envizi ESG Suite can help you stay organi
 
 ## 4. ESG Frameworks in Envizi
 
-Sustainability  Reporting manager in Envizi helps the Sustainability  manager to create disclosure reports using various ESG frameworks and submit to the various stakeholders.
+Sustainability  Reporting manager Tool in Envizi helps the Sustainability manager to create disclosure reports using various ESG frameworks and submit to the various stakeholders.
 
-Here is the Sustainability  Reporting manager contains various disclosures prepared and available for the submission. User can click on `FRAMEWORK LIBRARY` to see the various frameworks available in Envizi.
+Here is the Sustainability Reporting manager tool contains various disclosures prepared and available for the submission. 
+
+User can click on `FRAMEWORK LIBRARY` to see the various frameworks available in Envizi.
 <img src="images/img-srm-01-main-1.png">
-Screen-1
 
 Here is the various default framework available in Envizi.
 <img src="images/img-srm-02-frameworks1.png">
-Screen-2
 
 Here is the list of custom frameworks created in Envizi.
 <img src="images/img-srm-02-frameworks2.png">
-                Screen-3
 
-Here is a Disclosure in detail.
+Here is the disclosure in detail.
 
-It shows the list of questionnaire associated with the disclosure. They all belongs to the TFCD framework. Click on the highlighted question to see the in detail.
+It shows the list of questionnaire associated with the disclosure. 
+
+They all belongs to the TFCD framework. 
+
+Click on the highlighted question to see the in detail.
 <img src="images/img-srm-04-disclosure1.png">
 <img src="images/img-srm-04-disclosure2.png">
 <img src="images/img-srm-04-disclosure3.png">
@@ -227,12 +226,18 @@ Here is the question details.
 <img src="images/img-srm-05-disclosure-ques2.png">
 
 
-You can click on the  `Add / Remove questions` to add more questions from the framework.
-Here it shows the list of framework to choose.
+You can click on the  `Actions > Add / Remove questions` from disclosure details page to add more questions.
+
+Here it shows the TCFD framework questionaire page. You can modify the existing questionarie selections.
+
+Or you can click on `Add Framework` to choose another framework questionarie.
 <img src="images/img-srm-06-disclosure-frame1.png">
 
-Here it shows the questionnaire available in the selected framework.
-<img src="images/img-srm-06-disclosure-frame1.png">
+If you click on `ADD FRAMEWORK` it will show the list of frameworks available.
+<img src="images/img-srm-06-disclosure-frame2.png">
+
+If you choose a framework, it will show the list of questionaire available for the selected framework. You can choose the questionaire and add it to the disclosure.
+<img src="images/img-srm-06-disclosure-frame2.png">
 
 
 ## 5. Frameworks in Detail
@@ -424,7 +429,7 @@ Using a `six-star` scale, NABERS helps `Australian building owners` understand h
 - NABERS announced in 2019 a plan to `expand` to `all major building types`. 
 Under Australia’s Building Energy Efficiency Disclosure Act, all `buildings for sale` or under lease
 over `10,000 sq ft` must `receive a NABERS rating`. 
-- Governments are required to lease space in buildings with ``ratings of 4.5 or higher.
+- Governments are required to lease space in buildings with ratings of 4.5 or higher.
 
 ### Conclusion
 
