@@ -95,6 +95,83 @@ TCFD </td><td> www.fsb-tcfd.org www.fsb-tcfd.org/mailing-list</td><td>  www.fsb-
 
 ## 3. Selecting ESG reporting frameworks
 
+Large number and variety of ESG reporting frameworks are available. Applying different lenses to assess and categorize the various frameworks can help selecting the appropriate ESG reporting frameworks for your organization.
+
+### 3.1 Lens 1: Potential for impact
+
+The decision on which framework to report to use should start by considering where an
+organization can make the most difference based on materiality assessments.
+
+#### Materiality in the context of ESG
+
+Using a “risk matrix” approach, organizations can
+
+- a large-cap e-commerce company may choose to focus on packaging materials and waste (environmental), supply chain labor standards (social) and business ethics (governance) in its materiality assessment 
+
+#### Assessing double materiality. 
+
+consider materiality from 2 viewpoints: 
+
+- financial materiality 
+- materiality to the market, the environment and people. 
+
+organization is responsible for
+- inward impact by managing its own financial risks
+- outward impacts of its decisions and operations on people and the environment. 
+
+organizations can identify both 
+- the financial
+- and nonfinancial impacts 
+
+
+#### Impact and influence
+The other side of the materiality coin is impact and influence. Organizations assessing their ESG reporting approach may also find it beneficial to consider the environmental and social factors that they can influence most directly and rapidly.
+Using an action priority or impact effort prioritization matrix, organizations can quickly identify where to focus their initial efforts and then use these insights to determine which ESG framework can help with realizing goals that are within reach.
+For example, organizations in the fast-moving consumer goods and retail sectors can exert influence within their supply chain. In these sectors, an organization’s procurement choices can have significant impact on the ESG
+
+### 3.2 Lens 2: Stakeholder expectations
+
+#### What are external stakeholders looking for?
+
+- investors, boards, insurers and creditors 
+  - Task Force on Climate- related Financial Disclosures (TCFD) or 
+  - Sustainability Accounting Standards Board (SASB). 
+- Employees and consumers
+  - United Nations Sustainable Development Goals (UN SDGs)
+- governments or regulators may prefer 
+  - Streamlined Energy and Carbon Reporting (SECR)
+  - National Greenhouse and Energy Reporting (NGER)
+
+
+#### How will internal stakeholders use the information?
+
+- risk, compliance and HR teams 
+  - would be invested in the data to drive strategic decisions around equity and inclusion
+- energy and utilities would be looking closely at 
+  - consumption and expenditure across the organization. 
+- Procurement teams
+  - to assess their supply chain operations and the risk profile ofsuppliers.
+
+### 3.3 Lens 3: Geography
+
+Certain ESG reporting frameworks are only relevant in particular geographies. (mandated by law, specific to local conditions).
+- ENERGY STAR® (North America and select other countries)
+- SECR (UK) and NGER (Australia)
+
+### 3.4 Lens 4: Sector preference
+
+- Global Real Estate Sustainability Benchmark (GRESB). 
+  - real estate
+  - infrastructure portfolios.
+
+### 3.5 Lens 5: Framework coverage
+
+Each ESG reporting frameworks has different levels of focus on the key ESG performance metrics, 
+  including environment, social, governance, carbon, energy, waste and water.
+
+
+
+
 ### 3.1 Lens 1: Potential for impact
 
 #### Materiality in the context of ESG
@@ -135,7 +212,7 @@ These require responses to all questions in the framework and typically have a s
 
 ### 4.1 Carbon Disclosure Project (CDP)
 
-CDP frameworks helps the companies to provide the stakeholders with the below environmental information.
+CDP frameworks helps the companies to provide the stakeholders with the below `environmental information`.
 - environmental governance and policy
 - risks and opportunity management
 - environmental targets and strategy
@@ -143,21 +220,21 @@ CDP frameworks helps the companies to provide the stakeholders with the below en
 
 The stakeholders are investors, employees and customers.
 
-CDP offers three questionnaires on the topics of climate change, water and forests.
+CDP offers three questionnaires on the topics of `climate change, water and forests`.
 
 ### 4.2 Global Real Estate Sustainability Benchmark (GRESB)
 
-GRESB helps to assess the sustainability performance of real estate and infrastructure portfolios and assets.
+GRESB helps to assess the sustainability performance of `real estate` and `infrastructure portfolios and assets`.
 
 The stakeholders are investors and asset managers.
 
-GRESB provides material insights into the sustainability performance of a company’s real assets. 
+GRESB provides `material insights` into the sustainability performance of a company’s real assets. 
 
-These insights are aligned with international reporting frameworks such as the GRI and Principles for Responsible
-Investment (PRI). 
+These insights are aligned with international reporting frameworks such as the `GRI` and Principles for Responsible
+Investment `(PRI)`. 
 
 Assessment participants receive the 
-  - Comparative business intelligence on where they stand against their peers, 
+  - Comparative business intelligence on where they stand against their peers
   - A roadmap with actions they can take to improve their ESG performance 
   - A communication platform to engage with investors 
   
@@ -187,14 +264,6 @@ Specific standards are available across 40 sectors. Here are the 4 groups availa
 Specific standards across 33 topics. They belongs to `Environmental, Social, Governance` and  other topics.
 
 ### 5.2 Task Force on Climate-related Financial Disclosures (TCFD)
-### 5.3 Value Reporting Foundation (VRF)  (Sustainability Accounting Standards Board (SASB) and  International Integrated Reporting Council (IIRC) )
-
-- allow reporters to select the questions they want to report against, 
-  - depending on factors such as their industry of operation and their materiality. 
-- Scoring is typically not included in these frameworks.
-
-
-### 5.2 Task Force on Climate-related Financial Disclosures (TCFD)
 
 TCFD is explicitly designed to address `climate-related` financial risks of the business to investors, lenders and insurers, falling within the ‘E’ of ESG reporting. 
 
@@ -220,7 +289,8 @@ VRF provides the following resources
 - `SASB` Standards track ESG issues and performance across `77` industry standards. 
 
 ## 6. Regulatory frameworks
-Like benchmark frameworks in that all responses are required but not always scored. These frameworks and reporting requirements are also required by a government body
+
+Like benchmark frameworks in that all responses are required but not always scored. These frameworks and reporting requirements are also required by a government body.
 
 ### 6.1 Sustainable Finance Disclosure Regulation (SFDR)
 
@@ -258,9 +328,9 @@ It is expected that an 11,900 companies incorporated in the UK will need to repo
 - `Scope 3 emissions` remain voluntary.
 
 `Unquoted` large companies and LLPs will also need to report
-  - their UK energy use 
-  - associated GHG emissions from electricity, gas and transport fuels
-  - as well at least one intensity metric. 
+- their UK energy use 
+- associated GHG emissions from electricity, gas and transport fuels
+- as well at least one intensity metric. 
 
 
 ## 7. Rating agencies
@@ -268,10 +338,45 @@ It is expected that an 11,900 companies incorporated in the UK will need to repo
 These type of frameworks have a scoring element and are often responded to through a questionnaire that is not public.
 
 ### 7.1 ENERGY STAR®
+
+ENERGY STAR is `energy rating` and benchmarking mechanism in `North America` that covers `commercial buildings`.
+
+Rankings `compare the performance` of a building against other similar buildings, called a peer group.
+Building owners can benchmark their performance across their portfolio.
+
+ENERGY STAR scores are based on data from national building energy consumption surveys, which allows the ENERGY STAR Portfolio Manager tool to control for key variables affecting a building’s energy performance, including `climate, hours of operation and building size`.
+
 ### 7.2 Dow Jones Sustainability Indices (DJSI) and the Corporate Sustainability Assessment (CSA) questionnaire
+
+DJSI `tracks` the performance of the companies by `economic, environmental and social criteria`
+
+This is used by investors who wish to jointly assess `financial` and `ESG aspects` of company performance.
+
+The DJSI applies a transparent, rules-based component `selection process` based on the company’s `Total Sustainability Scores` resulting from the annual `CSA`.
+
+The `CSA compare` companies across `61 industries` with questionnaires assessing a mix of `80–100` cross-
+industry and industry-specific questions. 
+
+Companies `receive scores` ranging from `0 to 100 and percentile rankings`. 
+
+`Only the top-ranked` companies within each industry are selected for inclusion in the DJSI family. 
+
 ### 7.3 National Built Environment Ratings Scheme (NABERS) AU
 
-## 8. Preparing for growing ESG trends
-### 8.1 AI-driven data scraping by ESG ratings tools
-### 8.2 A global standard in ESG reporting
+Using a `six-star` scale, NABERS helps `Australian building owners` understand how their `asset impacts the environment` and helps prospective tenants understand `how energy- efficient their leased space` is.
 
+- NABERS `compares` the performance of a building or tenancy to benchmarks that represent the performance of `other similar buildings` in the same location. 
+- NABERS `scores are calculated` by an independent assessor `using 12 months of real, measurable information` about a building or tenancy, such as 
+  - energy 
+  - water bills 
+  - waste consumption data as the basis of their rating. 
+- NABERS `ratings` are available for
+  - commercial office buildings
+  - tenancies, 
+  - hotels, 
+  - shopping centers
+  - data centers.
+- NABERS announced in 2019 a plan to `expand` to `all major building types`. 
+Under Australia’s Building Energy Efficiency Disclosure Act, all `buildings for sale` or under lease
+over `10,000 sq ft` must `receive a NABERS rating`. 
+- Governments are required to lease space in buildings with ``ratings of 4.5 or higher.
