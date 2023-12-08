@@ -54,56 +54,47 @@ Here’s a directory of information sources. The regular updates and guidance th
   <thead>
     <th></th>
     <th>Main website</th>
-    <th>Electronic newsletter sign-up </th>
     <th>Media/blog </th>
     <th>Social media (LinkedIn)</th>
   </thead>
   <tr>
     <td>CDP</td>
     <td>www.cdp.net/en</td>
-    <td> www.cdp.net/en#ab6aef87ead8143aa322f9ea57c986a5</td>
     <td>www.cdp.net/en/blog </td>
     <td>www.linkedin.com/company/cdp-worldwide</td>
   </tr>
   <tr>
-    <td>CSA </td>
-    <td>www.spglobal.com/esg</td>
-    <td> www.pages.marketintelligence.spglobal.com/Newsletter-Hub-Request.html</td>
-    <td>www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines</td>
-    <td>www.linkedin.com/company/spglobal</td>
-  </tr>
-  <tr>
-    <td>ENERGY STAR </td>
-    <td>www.energystar.gov/buildings</td>
-    <td> www.cloud.mail.energystar.gov/preferences/profle</td>
-    <td>www.energystar.gov/about/newsroom</td>
-    <td>www.linkedin.com/showcase/epa-energy-star</td>
-  <td>
-  </tr>
-  <tr>
-    <td>GRESB </td>
-    <td>www.gresb.com www.gresb.com/nl-en/gresb-newsletter</td>
-    <td>www.gresb.com/nl-en/news-and-updates</td>
-    <td>www.linkedin.com/company/gresb</td>
-  </tr>
-  <tr>
     <td>GRI</td>
     <td>www.globalreporting.org </td>
-    <td>www.r1.dotdigital-pages.com/p/4J5-SLH/gri-email-communication-sign-up-form</td>
     <td>www.globalreporting.org/about-gri/news-center</td>
     <td>www.linkedin.com/company/global-reporting-initiative-gri</td>
   </tr>
   <tr>
+    <td>TCFD </td>
+    <td>www.fsb-tcfd.org</td>
+    <td>www.fsb-tcfd.org/press</td>
+    <td>www.linkedin.com/company/task-force-on-climate-related-fnancial-disclosures-tcfd</td>
+  </tr>
+  <td>SASB </td>
+    <td>www.sasb.org</td>
+    <td>www.sasb.org/about/news </td>
+    <td>www.linkedin.com/company/sasb-sustainability-accounting-standards-board</td>
+  </tr>
+  <tr>
+    <td>SBTi </td>
+    <td>www.sciencebasedtargets.org</td>
+    <td>www.sciencebasedtargets.org/news-events</td>
+    <td>www.linkedin.com/company/science-based-targets</td>
+  </tr>
+  <tr>
     <td>IIRC</td>
     <td>www.integratedreporting.org</td>
-    <td>www.valuereportingfoundation.org/subscribe</td>
     <td>www.integratedreporting.org/newspage</td>
     <td>www.linkedin.com/company/international-integrated-reporting-council</td>
   </tr>
   <tr>
     <td>NABERS AU</td>
     <td> www.nabers.gov.au </td>
-    <td>www.nabers.us6.list-manage.com/subscribe?u=cf8c911de05f356279288cde0&id=59416b8f3b</td>
     <td>www.nabers.gov.au/about/news </td>
     <td>www.linkedin.com/company/nabers</td>
   <td>
@@ -111,37 +102,27 @@ Here’s a directory of information sources. The regular updates and guidance th
   <tr>
     <td>NGER </td>
     <td>www.cleanenergyregulator.gov.au/NGER</td>
-    <td>www.cleanenergyregulator.gov.au/About/Subscribe-to-email-updates</td>
     <td>www.cleanenergyregulator.gov.au/NGER/News-and-updates</td>
     <td>www.linkedin.com/company/clean-energy-regulator</td>
   </tr>
   <tr>
-    <td>SASB </td>
-    <td>www.sasb.org</td>
-    <td>www.valuereportingfoundation.org/subscribe</td>
-    <td>www.sasb.org/about/news </td>
-    <td>www.linkedin.com/company/sasb-sustainability-accounting-standards-board</td>
-  </tr>
-  <tr>
-    <td>SBTi </td>
-    <td>www.sciencebasedtargets.org</td>
-    <td> www.sciencebasedtargets.org/newsletter</td>
-    <td>www.sciencebasedtargets.org/news-events</td>
-    <td>www.linkedin.com/company/science-based-targets</td>
-  </tr>
-  <tr>
     <td>SFDR </td>
     <td>www.eurosif.org</td>
-    <td>www.eurosif.org/monthly</td>
     <td>www.eurosif.org/newsnewsletter</td>
     <td>www.linkedin.com/company/eurosif</td>
   </tr>
   <tr>
-    <td>TCFD </td>
-    <td>www.fsb-tcfd.org</td>
-    <td>www.fsb-tcfd.org/mailing-list</td>
-    <td>www.fsb-tcfd.org/press</td>
-    <td>www.linkedin.com/company/task-force-on-climate-related-fnancial-disclosures-tcfd</td>
+    <td>ENERGY STAR </td>
+    <td>www.energystar.gov/buildings</td>
+    <td>www.energystar.gov/about/newsroom</td>
+    <td>www.linkedin.com/showcase/epa-energy-star</td>
+  <td>
+  </tr>
+  <tr>
+    <td>GRESB </td>
+    <td>www.gresb.com</td>
+    <td>www.gresb.com/nl-en/news-and-updates</td>
+    <td>www.linkedin.com/company/gresb</td>
   </tr>
 </table>
 
@@ -203,7 +184,7 @@ User can click on `FRAMEWORK LIBRARY` to see the various frameworks available in
 Here is the various default framework available in Envizi.
 <img src="images/img-srm-02-frameworks1.png">
 
-Here is the list of custom frameworks created in Envizi.
+It is also possible to create custom frameworks in Envizi.
 <img src="images/img-srm-02-frameworks2.png">
 
 Here is the disclosure in detail.
@@ -230,7 +211,7 @@ You can click on the  `Actions > Add / Remove questions` from disclosure details
 
 Here it shows the TCFD framework questionaire page. You can modify the existing questionarie selections.
 
-Or you can click on `Add Framework` to choose another framework questionarie.
+Or you can click on `Add Framework` to include other framework questionarie.
 <img src="images/img-srm-06-disclosure-frame1.png">
 
 If you click on `ADD FRAMEWORK` it will show the list of frameworks available.
