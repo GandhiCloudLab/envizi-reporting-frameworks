@@ -95,51 +95,54 @@ ESG reporting software such as the IBM Envizi ESG Suite can help you stay organi
 
 ## 4. ESG Frameworks in Envizi
 
-Sustainability  Reporting manager Tool in Envizi helps the Sustainability manager to create disclosure reports using various ESG frameworks and submit to the various stakeholders.
+The Sustainability Reporting Manager (SRM) in Envizi helps organizations to capture, manage and report ESG quantitative metrics and questionnaire responses across many different ESG Frameworks.
 
-Here is the Sustainability Reporting manager tool contains various disclosures prepared and available for the submission. 
-
-User can click on `FRAMEWORK LIBRARY` to see the various frameworks available in Envizi.
+This is the main page of the SRM tool, displaying the various disclosures prepared and ready for submission.
 <img src="images/img-srm-01-main-1.png">
 
-Here is the various default framework available in Envizi.
-<img src="images/img-srm-02-frameworks1.png">
+#### Framework library
 
-It is also possible to create custom frameworks in Envizi.
-<img src="images/img-srm-02-frameworks2.png">
+Here is the Framework library of major ESG frameworks in SRM. 
 
-Here is the disclosure in detail.
+<img src="images/img-srm-07-frameworks-library.png">
 
-It shows the list of questionnaire associated with the disclosure. 
+Click on [this](https://knowledgebase.envizi.com/home/srm-supported-framework) to know more about this.
 
-They all belongs to the TFCD framework. 
+#### Custom frameworks
 
-Click on the highlighted question to see the in detail.
-<img src="images/img-srm-04-disclosure1.png">
-<img src="images/img-srm-04-disclosure2.png">
-<img src="images/img-srm-04-disclosure3.png">
+Users can create custom frameworks in SRM. This screen shows the list custom frameworks created in this organization.
+<img src="images/img-srm-07-frameworks-library.png">
+
+####  Framework questions
+
+This screen shows the list of questions available in a framework
+
+<img src="images/img-srm-09-questions-on-one-platform.png">
+
+#### Disclosure in Detail
+
+Lets us see the disclosure in detail.
+
+The below picture shows the disclosure `CSR 2022`.
+- It contains the questionaries from several ESG frameworks such as `TCFD, SASB, GRI, UN SDGs, EU Taxonomy, BRSR`
+- Questiones are categaorized across the Framework as the `Use Cross-Framegework Categorization` option is checked.
+
+<img src="images/img-srm-10-disclosure-1.png">
+<img src="images/img-srm-10-disclosure-2.png">
+
+- Questiones are categaorized based on the Framework as the `Use Cross-Framegework Categorization` option is un-checked.
+
+<img src="images/img-srm-10-disclosure-3.png">
+<img src="images/img-srm-10-disclosure-4.png">
 
 Here is the question details. 
 - It contains Question and question details.
-- It contains Envizi Guidance to fill the answers to the question.
+- It contains Envizi Guidance to fill the answers to the question. The Sustainability [Executive Report] link is available to view and prepare the response.
 - The related questions section is available to show the similar questions available from other frameworks as well.
 - While you give a response, you can also able to provide supporting links and attachments.
-<img src="images/img-srm-05-disclosure-ques1.png">
-<img src="images/img-srm-05-disclosure-ques2.png">
-
-
-You can click on the  `Actions > Add / Remove questions` from disclosure details page to add more questions.
-
-Here it shows the TCFD framework questionaire page. You can modify the existing questionarie selections.
-
-Or you can click on `Add Framework` to include other framework questionarie.
-<img src="images/img-srm-06-disclosure-frame1.png">
-
-If you click on `ADD FRAMEWORK` it will show the list of frameworks available.
-<img src="images/img-srm-06-disclosure-frame2.png">
-
-If you choose a framework, it will show the list of questionaire available for the selected framework. You can choose the questionaire and add it to the disclosure.
-<img src="images/img-srm-06-disclosure-frame3.png">
+<img src="images/img-srm-11-ques-1.png">
+<img src="images/img-srm-11-ques-2.png">
+<img src="images/img-srm-11-ques-3.png">
 
 
 ## 5. Frameworks in Detail
