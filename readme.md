@@ -323,7 +323,47 @@ VRF provides the following resources
 
 Like benchmark frameworks in that all responses are required but not always scored. These frameworks and reporting requirements are also required by a government body.
 
-#### 5.3.1 Sustainable Finance Disclosure Regulation (SFDR)
+#### 5.3.1 Corporate Sustainability Reporting Directive (CSRD)
+
+The CSRD is a regulation adopted  by European Union (EU) legislation at the start of 2023. 
+The key element in CSRD reporting is  double materiality assessment, which means  companies requried to disclose information on how their business activities affect the planet and its people, and how their sustainability goals, measures and risks impact the financial health of the business. 
+
+The goal of the CRSD is to provide transparency that will help investors, analysts, consumers, and other stakeholders better evaluate EU companies’ sustainability performance as well as the related business impacts and risks.
+
+CSRD is mandatory for all large European companies and those listed on the EU-regulated markets, including EU subsidiaries of non-EU parent companies.
+
+Companies subject to the CSRD will have to report according to European Sustainability Reporting Standards (ESRS).
+
+#### 5.3.2 Business Responsibility and Sustainability Report (BRSR) 
+
+The `BRSR` is the first ESG reporting framework is designed and enforced by the Securities Exchange Board of India (SEBI)—the regulatory body for securities markets in India.  
+BRSR to be interoperable with other internationally accepted reporting frameworks such as the Global Reporting Initiative (GRI), Sustainability Accounting Standards Board (SASB) and the Task Force on Climate-Related Financial Disclosures (TCFD).
+
+BRSR requires Indian companies to provide quantitative metrics / KPIs aligned to on ESG factors through 3 disclosures.
+
+- `General disclosures`:  Disclose information related to company, adresses offices, products and services, listed entitites, employees, diversity,subsidaries, associate companies, etc. 
+
+- `Management and process disclosures`: Provide deatils related to  policy and management processes, governance, leadership and oversight.
+
+- `Principlewise performance disclosures`:  Provide quantitative data relating to 9 basic principles of the National Guidelines on Responsible Business Conduct (NGRBC). which help organizations to demonstrate how their operations impact environmental and social metrics.
+
+ 
+#### 5.3.3 Securities and Exchange Commission (SEC) Climate Rule 
+
+The `Securities and Exchange Commission (SEC)` has issued a rule proposal to standardize the way organizations make climate-related disclosures. The rule proposal would require US publicly traded companies to disclose annually how their businesses are assessing, measuring and managing climate-related risks. 
+
+The proposed rule would will help investors with details on the organizations they are investing by allowing them to clarify/asses exposure to risk and potential impact on the business operations or financial conditions of the organization.
+
+`SEC Climate rule` requires the organizations to dislose the certain climate-related information including:
+
+- Greenhouse gas (GHG) emissions, Scopes 1, 2 and 3 (reported to an auditable standard)
+- Disclosure of climate-related risk, impacts, targets and goals
+- Systematic management of offsets and REC’s
+- Articulation and management of a transition plan
+- Finance-grade reporting aligned with TCFD
+
+
+#### 5.3.4 Sustainable Finance Disclosure Regulation (SFDR)
 
 SFDR aims reporting of ESG metrics for `financial products and entities` within the `EU`. It does this by mandating Principal Adverse Impact `(PAI)` statement.
 
@@ -333,7 +373,7 @@ SFDR’s PAI statement requires financial  bodies to report different types of q
 
 This means that organizations must report the proportion of their investees’ activities that they finance.
 
-#### 5.3.2 National Greenhouse and Energy Reporting (NGER)
+#### 5.3.5 National Greenhouse and Energy Reporting (NGER)
 
 NGER Scheme is the `Australian national framework` for reporting and disseminating company information about `GHG emissions, energy production and energy consumption`.
 
@@ -346,7 +386,7 @@ The NGER Scheme collects emissions-related data about GHGs such as
 
 NGER Act insists on records of activities must be adequate to verify during an external audit for relevance, completeness, consistency, transparency and accuracy
 
-#### 5.3.3 Streamlined Energy and Carbon Reporting (SECR)
+#### 5.3.6 Streamlined Energy and Carbon Reporting (SECR)
 
 SECR taxonomy is the `UK government’s` guidance for organizations required to disclose `energy use, GHG emissions` and related information. 
 
