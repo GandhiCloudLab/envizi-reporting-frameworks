@@ -46,85 +46,6 @@ Each of the major ESG reporting frameworks has different levels of focus on the 
 
 <img src="images/img-01.png">
 
-### Frameworks information sources
-
-Here’s a directory of information sources. The regular updates and guidance throughout the year on emerging trends and changes in the ESG reporting landscape are published.  You can access these resources through our website or LinkedIn page.
-
-<table>
-  <thead>
-    <th></th>
-    <th>Main website</th>
-    <th>Media/blog </th>
-    <th>Social media (LinkedIn)</th>
-  </thead>
-  <tr>
-    <td>CDP</td>
-    <td>www.cdp.net/en</td>
-    <td>www.cdp.net/en/blog </td>
-    <td>www.linkedin.com/company/cdp-worldwide</td>
-  </tr>
-  <tr>
-    <td>GRI</td>
-    <td>www.globalreporting.org </td>
-    <td>www.globalreporting.org/about-gri/news-center</td>
-    <td>www.linkedin.com/company/global-reporting-initiative-gri</td>
-  </tr>
-  <tr>
-    <td>TCFD </td>
-    <td>www.fsb-tcfd.org</td>
-    <td>www.fsb-tcfd.org/press</td>
-    <td>www.linkedin.com/company/task-force-on-climate-related-fnancial-disclosures-tcfd</td>
-  </tr>
-  <td>SASB </td>
-    <td>www.sasb.org</td>
-    <td>www.sasb.org/about/news </td>
-    <td>www.linkedin.com/company/sasb-sustainability-accounting-standards-board</td>
-  </tr>
-  <tr>
-    <td>SBTi </td>
-    <td>www.sciencebasedtargets.org</td>
-    <td>www.sciencebasedtargets.org/news-events</td>
-    <td>www.linkedin.com/company/science-based-targets</td>
-  </tr>
-  <tr>
-    <td>IIRC</td>
-    <td>www.integratedreporting.org</td>
-    <td>www.integratedreporting.org/newspage</td>
-    <td>www.linkedin.com/company/international-integrated-reporting-council</td>
-  </tr>
-  <tr>
-    <td>NABERS AU</td>
-    <td> www.nabers.gov.au </td>
-    <td>www.nabers.gov.au/about/news </td>
-    <td>www.linkedin.com/company/nabers</td>
-  <td>
-  </tr>
-  <tr>
-    <td>NGER </td>
-    <td>www.cleanenergyregulator.gov.au/NGER</td>
-    <td>www.cleanenergyregulator.gov.au/NGER/News-and-updates</td>
-    <td>www.linkedin.com/company/clean-energy-regulator</td>
-  </tr>
-  <tr>
-    <td>SFDR </td>
-    <td>www.eurosif.org</td>
-    <td>www.eurosif.org/newsnewsletter</td>
-    <td>www.linkedin.com/company/eurosif</td>
-  </tr>
-  <tr>
-    <td>ENERGY STAR </td>
-    <td>www.energystar.gov/buildings</td>
-    <td>www.energystar.gov/about/newsroom</td>
-    <td>www.linkedin.com/showcase/epa-energy-star</td>
-  <td>
-  </tr>
-  <tr>
-    <td>GRESB </td>
-    <td>www.gresb.com</td>
-    <td>www.gresb.com/nl-en/news-and-updates</td>
-    <td>www.linkedin.com/company/gresb</td>
-  </tr>
-</table>
 
 ## 2. Selecting ESG reporting frameworks
 
@@ -456,6 +377,100 @@ Under Australia’s Building Energy Efficiency Disclosure Act, all `buildings fo
 over `10,000 sq ft` must `receive a NABERS rating`. 
 
 Governments are required to lease space in buildings with ratings of 4.5 or higher.
+
+
+
+### Frameworks information sources
+
+Here’s a directory of information sources. The regular updates and guidance throughout the year on emerging trends and changes in the ESG reporting landscape are published. 
+
+<table>
+  <thead>
+    <th>Framework</th>
+    <th>Framework Name</th>
+    <th>Type</th>
+    <th>Coverage</th>
+    <th>Website</th>
+  </thead>
+  <tr>
+    <td>CDP</td>
+    <td>Carbon Disclosure Project </td>
+    <td>Benchmark</td>
+    <td>Global</td>
+    <td>www.cdp.net/en</td>
+  </tr>
+  <tr>
+    <td>GRI</td>
+    <td>Global Reporting Initiative </td>
+    <td>Voluntary</td>
+    <td>Global</td>
+    <td>www.globalreporting.org </td>
+  </tr>
+  <tr>
+    <td>TCFD </td>
+    <td>Task Force on Climate-related Financial Disclosures</td>
+    <td>Voluntary</td>
+    <td>Global</td>
+    <td>www.fsb-tcfd.org</td>
+  </tr>
+  <tr>
+    <td>SASB </td>
+    <td>Sustainability Accounting Standards Board </td>
+    <td>Voluntary</td>
+    <td>Global</td>
+    <td>www.sasb.org</td>
+  </tr>
+  <tr>
+    <td>SBTi </td>
+    <td>Science Based Targets initiative</td>
+    <td>Global</td>
+    <td>cccc</td>
+    <td>www.sciencebasedtargets.org</td>
+  </tr>
+  <tr>
+    <td>IIRC</td>
+    <td>aaaa</td>
+    <td>bbbb</td>
+    <td>cccc</td>
+    <td>www.integratedreporting.org</td>
+  </tr>
+  <tr>
+    <td>NABERSU</td>
+    <td>Natioanl Australian Built Rating System</td>
+    <td>Rating</td>
+    <td>Australia</td>
+    <td>www.nabers.gov.au </td>
+  </tr>
+  <tr>
+    <td>NGER </td>
+    <td>National Greenhouse And Energy Reporting scheme </td>
+    <td>Regulatory</td>
+    <td>Australia</td>
+    <td>www.cleanenergyregulator.gov.au/NGER</td>
+  </tr>
+  <tr>
+    <td>SFDR</td>
+    <td>Sustainable Finance Disclosure Regulation</td>
+    <td>Regulatory</td>
+    <td>EU</td>
+    <td>www.eurosif.org</td>
+  </tr>
+  <tr>
+    <td>ENERGY STAR </td>
+    <td>ENERGY STAR</td>
+    <td>Rating</td>
+    <td>US</td>
+    <td>www.energystar.gov/buildings</td>
+  <td>
+  </tr>
+  <tr>
+    <td>GRESB </td>
+    <td>Global Real Estate Sutatinability Benchmark</td>
+    <td>Benchmarking</td>
+    <td>Global</td>
+    <td>www.gresb.com</td>
+  </tr>
+</table>
 
 ### Conclusion
 
