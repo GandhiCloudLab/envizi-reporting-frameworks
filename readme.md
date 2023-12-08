@@ -106,12 +106,12 @@ Here is the Framework library of major ESG frameworks in SRM.
 
 <img src="images/img-srm-07-frameworks-library.png">
 
-Click on [this](https://knowledgebase.envizi.com/home/srm-supported-framework) to know more about this.
+Click on [this](https://knowledgebase.envizi.com/home/srm-supported-frameworks) to know more about this.
 
 #### Custom frameworks
 
-Users can create custom frameworks in SRM. This screen shows the list custom frameworks created in this organization.
-<img src="images/img-srm-07-frameworks-library.png">
+Users can create custom frameworks in SRM. This screen shows the list of custom frameworks created for this organization.
+<img src="images/img-srm-08-frameworks-custom.png">
 
 ####  Framework questions
 
@@ -130,16 +130,16 @@ The below picture shows the disclosure `CSR 2022`.
 <img src="images/img-srm-10-disclosure-1.png">
 <img src="images/img-srm-10-disclosure-2.png">
 
-- Questiones are categaorized based on the Framework as the `Use Cross-Framegework Categorization` option is un-checked.
+- Here Questiones are categaorized based on the Framework as the `Use Cross-Framegework Categorization` option is un-checked.
 
 <img src="images/img-srm-10-disclosure-3.png">
 <img src="images/img-srm-10-disclosure-4.png">
 
 Here is the question details. 
 - It contains Question and question details.
-- It contains Envizi Guidance to fill the answers to the question. The Sustainability [Executive Report] link is available to view and prepare the response.
-- The related questions section is available to show the similar questions available from other frameworks as well.
-- While you give a response, you can also able to provide supporting links and attachments.
+- It contains Envizi Guidance to fill the answers to the question. The `Sustainability [Executive Report]` link is available to view and prepare the response.
+- The `related questions` section is available to show the similar questions available from other frameworks as well.
+- While you give a response, you can also able to provide supporting `links` and `attachments`.
 <img src="images/img-srm-11-ques-1.png">
 <img src="images/img-srm-11-ques-2.png">
 <img src="images/img-srm-11-ques-3.png">
